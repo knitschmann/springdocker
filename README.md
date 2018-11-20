@@ -4,7 +4,9 @@
 Dockerfile.old simply puts the jar in the container, works. When we rename it to just Dockerfile, we can do
 
 gradle bootJar
+
 docker build -t pikachu .
+
 docker run -p 8080:8080
 this runs the springboot app inside the container
 
