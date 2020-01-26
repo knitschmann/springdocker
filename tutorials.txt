@@ -1,1 +1,9 @@
+https://spring.io/blog/2018/11/08/spring-boot-in-a-container
 https://mkyong.com/docker/docker-and-java-application-examples/
+https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/
+
+Google Jib plugin, no Dockerfile only Maven: https://tech.asimio.net/2018/08/10/Simplifying-packaging-Spring-Boot-2-applications-into-Docker-images-using-Google-Jib.html
+
+
+
+https://blog.codeleak.pl/2019/09/spring-boot-testing-with-junit-5.html
